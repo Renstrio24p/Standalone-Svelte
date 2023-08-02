@@ -1,7 +1,7 @@
 {
-  "name": "standalone-javascript",
-  "version": "1.0.2",
-  "description": "Pure Vanilla JS",
+  "name": "standalone-svelte",
+  "version": "1.0.0",
+  "description": "Svelte webpack",
   "main": "./src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
